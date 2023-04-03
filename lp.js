@@ -2,7 +2,7 @@ lpTag.sdes = lpTag.sdes || [];
 lpTag.identities = [];
 function identityFn(callback) {
     callback({
-        iss: "Vipul",
+        iss: "vipul",
         acr: "loa1",
         sub: "1234567890"
     });
